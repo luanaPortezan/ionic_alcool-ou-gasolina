@@ -1,0 +1,7 @@
+{
+  "name": "ionic_alcool-ou-gasolina",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
